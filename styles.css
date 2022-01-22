@@ -23,3 +23,20 @@ h1, h2, h3, h4, h5, h6 {
 .container {
   position: relative;
 }
+
+p.round3 {
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 5px;
+  position: centre;
+}
+
+.div1{
+  border: 1px solid black;
+  border-radius: 12px;
+  padding-top: 25px;
+  padding-right: 15px;
+  padding-bottom: 50px;
+  padding-left: 15px;
+  text-align: center;
+}
