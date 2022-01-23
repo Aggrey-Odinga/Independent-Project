@@ -25,6 +25,12 @@ h1, h2, h3, h4, h5, h6 {
   background: linear-gradient(110deg, #f3f5f5 50%, #e2b202 50%);
 }
 
+.menu{
+  text-align: center;
+  font-size: 30px;
+}
+
+
 ul.no-bullets {
   list-style-type: none;
   margin: 0;
